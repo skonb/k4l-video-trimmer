@@ -1,0 +1,7 @@
+<resources>
+    <string name="cancel">キャンセル</string>
+    <string name="save">保存</string>
+    <string name="short_seconds">秒</string>
+    <string name="megabyte">MB</string>
+    <string name="kilobyte">KB</string>
+</resources>
